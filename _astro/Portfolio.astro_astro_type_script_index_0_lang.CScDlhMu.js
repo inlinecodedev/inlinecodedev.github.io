@@ -1,0 +1,1 @@
+import{l as o,V as e}from"./lg-video.es5.CHVXYf-r.js";document.addEventListener("astro:page-load",()=>{const t=document.getElementById("lb-portfolio");o(t,{licenseKey:"test",download:!1,hideScrollbar:!0,animateThumb:!1,mobileSettings:{showCloseIcon:!0},autoplay:!0,zoomFromOrigin:!1,autoplayVideoOnSlide:!0,plugins:[e]})});
